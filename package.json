@@ -1,0 +1,8 @@
+{
+  "name": "hydrooj-nav-full",
+  "version": "1.0.0",
+  "description": "make hydrooj navbar(top) full width of browser",
+  "main": "index.js",
+  "author": "bowen404",
+  "license": "AGPL"
+}
